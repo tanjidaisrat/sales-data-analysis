@@ -1,0 +1,51 @@
+Order ID,Product,Category,Quantity,Price,Total Sales,Customer Location,Date
+1,External Hard Drive,Accessories,4,80,320,Denver,2025-03-05
+2,Monitor,Electronics,4,300,1200,Denver,2025-03-31
+3,Speakers,Accessories,5,100,500,Boston,2025-03-29
+4,Laptop,Electronics,1,1000,1000,Los Angeles,2025-03-02
+5,Speakers,Accessories,4,100,400,Miami,2025-03-20
+6,Smartphone,Electronics,5,500,2500,Los Angeles,2025-03-16
+7,Headphones,Accessories,5,50,250,New York,2025-03-06
+8,Monitor,Electronics,4,300,1200,Boston,2025-03-25
+9,Speakers,Accessories,3,100,300,Dallas,2025-03-10
+10,Mouse,Accessories,3,20,60,New York,2025-03-09
+11,Tablet,Electronics,5,400,2000,Denver,2025-03-13
+12,Speakers,Accessories,1,100,100,Dallas,2025-03-13
+13,External Hard Drive,Accessories,3,80,240,Houston,2025-03-06
+14,External Hard Drive,Accessories,2,80,160,Miami,2025-03-01
+15,Keyboard,Accessories,3,25,75,Dallas,2025-03-02
+16,Mouse,Accessories,5,20,100,Houston,2025-03-28
+17,Laptop,Electronics,1,1000,1000,Boston,2025-03-03
+18,Monitor,Electronics,2,300,600,Seattle,2025-03-27
+19,Mouse,Accessories,5,20,100,Boston,2025-03-10
+20,Tablet,Electronics,3,400,1200,Boston,2025-03-06
+21,Mouse,Accessories,5,20,100,Houston,2025-03-24
+22,Smartwatch,Electronics,5,200,1000,Dallas,2025-03-28
+23,Keyboard,Accessories,2,25,50,Dallas,2025-03-30
+24,Laptop,Electronics,5,1000,5000,Boston,2025-03-30
+25,Mouse,Accessories,5,20,100,Chicago,2025-03-05
+26,Headphones,Accessories,1,50,50,Denver,2025-03-07
+27,Smartphone,Electronics,5,500,2500,New York,2025-03-21
+28,External Hard Drive,Accessories,4,80,320,Boston,2025-03-24
+29,External Hard Drive,Accessories,5,80,400,Miami,2025-03-08
+30,External Hard Drive,Accessories,5,80,400,Denver,2025-03-19
+31,Laptop,Electronics,5,1000,5000,Los Angeles,2025-03-17
+32,Monitor,Electronics,5,300,1500,San Francisco,2025-03-28
+33,Smartphone,Electronics,5,500,2500,Dallas,2025-03-05
+34,Mouse,Accessories,2,20,40,Houston,2025-03-06
+35,External Hard Drive,Accessories,5,80,400,Boston,2025-03-17
+36,Monitor,Electronics,5,300,1500,Miami,2025-03-22
+37,Mouse,Accessories,4,20,80,Boston,2025-03-26
+38,External Hard Drive,Accessories,5,80,400,Boston,2025-03-24
+39,Smartphone,Electronics,2,500,1000,Seattle,2025-03-02
+40,Smartphone,Electronics,1,500,500,San Francisco,2025-03-22
+41,Mouse,Accessories,4,20,80,Houston,2025-03-12
+42,Smartwatch,Electronics,3,200,600,Seattle,2025-03-24
+43,Tablet,Electronics,5,400,2000,Miami,2025-03-30
+44,Mouse,Accessories,2,20,40,Chicago,2025-03-25
+45,Laptop,Electronics,4,1000,4000,Denver,2025-03-18
+46,External Hard Drive,Accessories,3,80,240,New York,2025-03-16
+47,Tablet,Electronics,1,400,400,Boston,2025-03-18
+48,Tablet,Electronics,1,400,400,Dallas,2025-03-01
+49,Keyboard,Accessories,4,25,100,Los Angeles,2025-03-10
+50,Mouse,Accessories,5,20,100,Houston,2025-03-28
